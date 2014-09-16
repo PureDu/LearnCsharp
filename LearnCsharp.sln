@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Invoke", "Invoke\Invoke.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P_Invoke", "P_Invoke\P_Invoke.csproj", "{64EE5EEE-BAC8-4FBF-93DD-866F5E0150F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDelegate", "MultiDelegate\MultiDelegate.csproj", "{AFCA3588-CCCB-4313-BD3C-1EE08B8F8F43}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{64EE5EEE-BAC8-4FBF-93DD-866F5E0150F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64EE5EEE-BAC8-4FBF-93DD-866F5E0150F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64EE5EEE-BAC8-4FBF-93DD-866F5E0150F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCA3588-CCCB-4313-BD3C-1EE08B8F8F43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCA3588-CCCB-4313-BD3C-1EE08B8F8F43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCA3588-CCCB-4313-BD3C-1EE08B8F8F43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCA3588-CCCB-4313-BD3C-1EE08B8F8F43}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
